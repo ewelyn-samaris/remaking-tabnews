@@ -1,4 +1,4 @@
-function Home() {  // convenção do react para componentes, 1ª letra caixa alta
+function Home() {
     return <h2>Amoooo tu ♥</h2>
 }
 
